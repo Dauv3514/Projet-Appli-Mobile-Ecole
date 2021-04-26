@@ -6,6 +6,9 @@ export default RemoveButton = () => {
 
     const navigation = useNavigation();
 
+    
+
+
     return (
 
 // Navigation.goBack permet à l'utilisateur de revenir à la page précédente "Home" 
